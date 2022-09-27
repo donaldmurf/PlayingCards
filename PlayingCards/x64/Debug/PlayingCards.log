@@ -1,0 +1,5 @@
+﻿  PlayingCards.cpp
+C:\Users\Veteran\source\repos\PlayingCards\PlayingCards\PlayingCards.cpp(27,14): warning C4240: nonstandard extension used: access to 'CardDeck::Card' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Veteran\source\repos\PlayingCards\PlayingCards\PlayingCards.cpp(14): message : see declaration of 'CardDeck::Card'
+C:\Users\Veteran\source\repos\PlayingCards\PlayingCards\PlayingCards.cpp(109,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  PlayingCards.vcxproj -> C:\Users\Veteran\source\repos\PlayingCards\x64\Debug\PlayingCards.exe
